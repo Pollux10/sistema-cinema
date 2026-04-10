@@ -1,0 +1,20 @@
+{
+  "filmes": [
+    {
+      "nome": "Vingadores",
+      "assentos": [
+        ["O", "O", "O", "O"],
+        ["O", "O", "O", "O"],
+        ["O", "O", "O", "O"]
+      ]
+    },
+    {
+      "nome": "Batman",
+      "assentos": [
+        ["O", "O", "O", "O"],
+        ["O", "O", "O", "O"],
+        ["O", "O", "O", "O"]
+      ]
+    }
+  ]
+}
